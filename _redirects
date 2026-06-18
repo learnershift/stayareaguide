@@ -1,5 +1,6 @@
 https://www.stayareaguide.com/* https://stayareaguide.com/:splat 301
 /index.html / 301
 /en/index.html /en/ 301
-/ko/index.html /ko/ 301
+/ko/hotels/bangkok/best-areas/ /en/hotels/bangkok/best-areas/ 301
+/ko/* /en/ 301
 /ja/index.html /ja/ 301
